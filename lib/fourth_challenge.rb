@@ -14,7 +14,7 @@ def fourth_challenge
         hero_f2 = {
           name: "Mercutio",
           age: "18",
-          attitude: "worried"
+          attitude: "hot-headed"
         }
       ]
    },
